@@ -1,0 +1,15 @@
+.Pi {
+	border: 5px solid black;
+	padding: 20px;
+	width:275px;
+	border-radius:10px; 
+}
+a:link, a:visited { 
+    color: (internal value);
+    text-decoration: underline;
+    cursor: auto;
+}
+
+a:link:active, a:visited:active { 
+    color: (internal value);
+}

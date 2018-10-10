@@ -1,0 +1,30 @@
+"Rules"
+"1. No cheating"
+"2. Read all of the questions"
+"3. No calculators"
+"4. Notice that I skipped 3"
+"5. Notice how you got fooled"
+"6. Think Outside the box"
+"7. Warning:You may get mad."
+
+
+
+<html>
+	<head>
+		<title>The Hardest Game Ever </title>
+	</head>
+	<body>
+		<div class="Pi"</div class>
+		<div class = "Pie">
+
+
+
+<html>
+	<head>
+		<title>The Hardest Game Ever</title>
+	</head>
+	<body>
+		<div class = "Pi</divclass>
+		<p> You lost! Please try again</p>
+
+
